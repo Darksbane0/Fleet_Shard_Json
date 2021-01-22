@@ -1,35 +1,560 @@
-[
-  {
+[	
+	{
+    "name": "Andrew Pride",
+    "comment": "",
+    "allyCode": "154814962",
+    "tagIdOnDrop": "418650278024183810",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Anfernee",
+    "comment": "",
+    "allyCode": "728989949",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Arthunus",
+    "comment": "",
+    "allyCode": "591732694",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Baegon",
+    "comment": "",
+    "allyCode": "334944144",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Bloog",
+    "comment": "",
+    "allyCode": "443313546",
+    "tagIdOnDrop": "413299361724891166",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "BruBaker321",
+    "comment": "",
+    "allyCode": "188254711",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Cabson",
+    "comment": "",
+    "allyCode": "481288789",
+    "tagIdOnDrop": "610946723283730443",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Caul Shivers",
+    "comment": "",
+    "allyCode": "227833148",
+    "tagIdOnDrop": "551700103153319939",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Classy Nasty",
+    "comment": "",
+    "allyCode": "876334811",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "ClintBeastwood",
+    "comment": "",
+    "allyCode": "179192156",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
     "name": "Darksbane",
-    "comment": "useIcon accepts emoji or any other text, name and comment isn't used by the bot",
+    "comment": "",
     "allyCode": "443244147",
-    "userIcon": ":skull_crossbones:",
     "tagIdOnDrop": "256211909827756042",
-    "tagIdOnClimb": "256211909827756042"
-  },
-  {
-    "name": "KlockoFett",
-    "comment": "just a commment, not used by the bot",
-    "allyCode": "987456321",
-    "tagIdOnDrop": "185221981149462538",
-    "userIcon": ":skull_crossbones:",
-    "tagIdOnClimb" : "185221981149462538"
-  },
-  {
+    "tagIdOnClimb" : "256211909827756042",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "DarthBoot",
+    "comment": "",
+    "allyCode": "875883759",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "DarthPachowski",
+    "comment": "",
+    "allyCode": "561535669",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "DarthPezzetino",
+    "comment": "",
+    "allyCode": "359311844",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "DEMON28",
+    "comment": "",
+    "allyCode": "962867829",
+    "tagIdOnDrop": "398813022145216512",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Derek Norad",
+    "comment": "",
+    "allyCode": "294498154",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "divinehand",
+    "comment": "",
+    "allyCode": "216172673",
+    "tagIdOnDrop": "421071213180223536",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Drakorin",
+    "comment": "",
+    "allyCode": "541861946",
+    "tagIdOnDrop": "275887341946535946",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "DrkLrdBill",
+    "comment": "",
+    "allyCode": "668861719",
+    "tagIdOnDrop": "267807768365236225",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
     "name": "ÐΞΛТHКЛłGHТ 0Ʀ Imperator Rex",
-    "comment": "if skip:true -> bot will ignore this ally code",
+    "comment": "",
     "allyCode": "673897262",
     "tagIdOnDrop": "325573719219109900",
     "tagIdOnClimb" : "",
     "userIcon": "",
     "skip": false
-  },
-  {
+  	},
+	{
+    "name": "Elite1",
+    "comment": "",
+    "allyCode": "175913276",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "EPICtWINk",
+    "comment": "",
+    "allyCode": "828619149",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "FloRyan 59",
+    "comment": "",
+    "allyCode": "389582441",
+    "tagIdOnDrop": "370951317813723148",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "FooTure",
+    "comment": "",
+    "allyCode": "527198238",
+    "tagIdOnDrop": "525248481825128458",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Galalxy",
+    "comment": "",
+    "allyCode": "236351884",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Golfin Weg",
+    "comment": "",
+    "allyCode": "524534426",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Haly Wisra",
+    "comment": "",
+    "allyCode": "924118337",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "inin",
+    "comment": "",
+    "allyCode": "287177459",
+    "tagIdOnDrop": "366452390976815104",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "jediloco",
+    "comment": "",
+    "allyCode": "438595626",
+    "tagIdOnDrop": "198485051447443457",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Justin",
+    "comment": "",
+    "allyCode": "853911651",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Kart Mort",
+    "comment": "",
+    "allyCode": "421836278",
+    "tagIdOnDrop": "418729506447032321",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Kellbelldel",
+    "comment": "",
+    "allyCode": "227328239",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "kgwzz",
+    "comment": "",
+    "allyCode": "282315126",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "KingRyan17",
+    "comment": "",
+    "allyCode": "666337923",
+    "tagIdOnDrop": "419302740473151488",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Kinz π",
+    "comment": "",
+    "allyCode": "169836625",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "KlockoFett",
+    "comment": "",
+    "allyCode": "286152485",
+    "tagIdOnDrop": "185221981149462538",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Luciffer",
+    "comment": "",
+    "allyCode": "474289432",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
     "name": "Lunazur",
-    "comment": "adding & in front of the discord id will tag the role",
-    "allyCode": "926866469",
+    "comment": "",
+    "allyCode": "267167628",
     "tagIdOnDrop": "202449634583379969",
     "tagIdOnClimb" : "",
-    "userIcon": ""
-  }
-]
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Modderboude",
+    "comment": "",
+    "allyCode": "731892953",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Momaw Nadon",
+    "comment": "",
+    "allyCode": "926866469",
+    "tagIdOnDrop": "312000646419054612",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Mongi",
+    "comment": "",
+    "allyCode": "654573263",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "naso",
+    "comment": "",
+    "allyCode": "527149779",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "New Naveen",
+    "comment": "",
+    "allyCode": "833392429",
+    "tagIdOnDrop": "540564154080296961",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "NGlorybrave",
+    "comment": "",
+    "allyCode": "433533911",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Noxicast",
+    "comment": "",
+    "allyCode": "112789799",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "oaktree",
+    "comment": "",
+    "allyCode": "814449267",
+    "tagIdOnDrop": "448240443503935497",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Obichar",
+    "comment": "",
+    "allyCode": "977339283",
+    "tagIdOnDrop": "352726798485815306",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Oblivion",
+    "comment": "",
+    "allyCode": "887444272",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Padawanderson",
+    "comment": "",
+    "allyCode": "848222715",
+    "tagIdOnDrop": "524957704171814923",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Pollix Kallar",
+    "comment": "",
+    "allyCode": "373345226",
+    "tagIdOnDrop": "309708669472473088",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Pro Armchair QB",
+    "comment": "",
+    "allyCode": "873436641",
+    "tagIdOnDrop": "325475379483770880",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Red4",
+    "comment": "",
+    "allyCode": "382925929",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Sagurr",
+    "comment": "",
+    "allyCode": "788819481",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "SmokeyDaBear207",
+    "comment": "",
+    "allyCode": "567699735",
+    "tagIdOnDrop": "258710167875616769",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "spaceball",
+    "comment": "",
+    "allyCode": "832259755",
+    "tagIdOnDrop": "352462986075439104",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Stinger",
+    "comment": "",
+    "allyCode": "437489332",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "Taper Tegra",
+    "comment": "",
+    "allyCode": "463173532",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "VM Noodlenoggin",
+    "comment": "",
+    "allyCode": "172637649",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	},
+	{
+    "name": "WookieWookie",
+    "comment": "",
+    "allyCode": "864132618",
+    "tagIdOnDrop": "392456869609865217",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "YOSHI X",
+    "comment": "",
+    "allyCode": "728353883",
+    "tagIdOnDrop": "202371232715374602",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "Zaxa",
+    "comment": "",
+    "allyCode": "835333823",
+    "tagIdOnDrop": "420940911606759435",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  	},
+	{
+    "name": "本丸哥哥",
+    "comment": "",
+    "allyCode": "443176768",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":enemy:",
+    "skip": false
+  	}
+ ]
