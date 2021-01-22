@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Darksbane",
+    "comment": "useIcon accepts emoji or any other text, name and comment isn't used by the bot",
+    "allyCode": "443244147",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "256211909827756042",
+    "tagIdOnClimb": "256211909827756042"
+  },
+  {
+    "name": "KlockoFett",
+    "comment": "just a commment, not used by the bot",
+    "allyCode": "987456321",
+    "tagIdOnDrop": "185221981149462538",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnClimb" : "185221981149462538"
+  },
+  {
+    "name": "ÐΞΛТHКЛłGHТ 0Ʀ Imperator Rex",
+    "comment": "if skip:true -> bot will ignore this ally code",
+    "allyCode": "673897262",
+    "tagIdOnDrop": "325573719219109900",
+    "tagIdOnClimb" : "",
+    "userIcon": "",
+    "skip": false
+  },
+  {
+    "name": "Lunazur",
+    "comment": "adding & in front of the discord id will tag the role",
+    "allyCode": "926866469",
+    "tagIdOnDrop": "202449634583379969",
+    "tagIdOnClimb" : "",
+    "userIcon": ""
+  }
+]
