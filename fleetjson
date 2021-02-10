@@ -270,6 +270,15 @@
     "skip": false
   	},
 	{
+    "name": "Kacir Skyrunner",
+    "comment": "",
+    "allyCode": "433475991",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":skull_crossbones:",
+    "skip": false
+  	},
+	{
     "name": "Kart Mort",
     "comment": "",
     "allyCode": "421836278",
