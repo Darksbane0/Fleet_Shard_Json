@@ -531,6 +531,15 @@
     "skip": false
   	},
 	{
+    "name": "Und Los",
+    "comment": "",
+    "allyCode": "465681419",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":skull_crossbones:",
+    "skip": false
+  	},
+	{
     "name": "WookieWookie",
     "comment": "",
     "allyCode": "864132618",
