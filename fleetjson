@@ -324,6 +324,15 @@
     "skip": false
   	},
 	{
+    "name": "Kisu",
+    "comment": "",
+    "allyCode": "265379943",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":skull_crossbones:",
+    "skip": false
+  	},	
+	{
     "name": "KlockoFett",
     "comment": "",
     "allyCode": "286152485",
