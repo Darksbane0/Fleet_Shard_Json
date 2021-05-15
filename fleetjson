@@ -342,6 +342,15 @@
     "skip": false
   	},
 	{
+    "name": "Kyle Katarn",
+    "comment": "",
+    "allyCode": "965997328",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":skull_crossbones:",
+    "skip": false
+  	},	
+	{
     "name": "Luciffer",
     "comment": "",
     "allyCode": "474289432",
