@@ -90,6 +90,15 @@
     "skip": false
   	},
 	{
+    "name": "Dark Lord",
+    "comment": "",
+    "allyCode": "474289432",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":skull_crossbones:",
+    "skip": false
+  	},	
+	{
     "name": "Darksbane",
     "comment": "",
     "allyCode": "443244147",
