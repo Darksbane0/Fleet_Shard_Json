@@ -261,6 +261,15 @@
     "skip": false
   	},
 	{
+    "name": "Jealousy",
+    "comment": "",
+    "allyCode": "934129746",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb" : "",
+    "userIcon": ":skull_crossbones:",
+    "skip": false
+  	},
+	{
     "name": "jediloco",
     "comment": "",
     "allyCode": "438595626",
